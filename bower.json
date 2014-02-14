@@ -1,0 +1,22 @@
+{
+  "name": "I Love Logan",
+  "version": "0.0.0",
+  "homepage": "https://github.com/stevekinney/ilovelogan.com",
+  "authors": [
+    "Steve Kinney <hello@stevekinney.net>"
+  ],
+  "description": "A Valentine for my wife.",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "momentjs": "~2.5.1"
+  }
+}
