@@ -1,0 +1,32 @@
+body {
+  background-color: white;
+  padding: 3em 0 3em 0;
+  font-family: monospace;
+}
+
+section.message {
+  font-size: 64px;
+}
+
+section.explanation {
+  font-size: 12px;
+  padding: 6em 3em 6em 3em;
+}
+
+section.explanation p {
+  margin-bottom: 1em;
+}
+
+section.date {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+h1, p {
+  margin: auto;
+  text-align: center;
+}
+
+p.heart {
+  color: red;
+}
